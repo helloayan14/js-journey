@@ -1,0 +1,21 @@
+ h1{
+    background-color: antiquewhite;
+    color: blue;
+}
+
+ .box{
+    background-color: aqua;
+    height: 30px;
+    width: 30px;
+    border: 2px solid ;
+    
+} 
+
+.content{
+    color: red;
+
+}
+
+.new{
+        background-color: aquamarine;
+}
